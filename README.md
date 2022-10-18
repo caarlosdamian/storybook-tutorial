@@ -3,7 +3,6 @@
     <img alt="Chromatic" src="https://avatars2.githubusercontent.com/u/24584319?s=200&v=4" width="60" />
   </a>
 </p>
-
 <h1 align="center">
   Chromatic's Intro to Storybook React template
 </h1>
